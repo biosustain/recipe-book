@@ -5,7 +5,10 @@ some nice recipes.
 
 This exercise is created from https://github.com/coderefinery/recipe-book-template.
 If you wish to improve the exercise itself, please direct your pull requests
-towards the template repository.
+towards the template repository. I had to leave the fork network in order to be 
+able to publish this repository as a GitHub Pages website:
+
+- [enryh.github.io/recipe-book/](https://enryh.github.io/recipe-book/)
 
 
 ## Categories
@@ -20,6 +23,5 @@ towards the template repository.
 
 ## Build website
 
-- main branch version of this fork, see at: 
-
-See instructions: https://github.com/enryH/notes_template
+- main branch version of this template, see at:
+  [enryH/notes_template](https://github.com/enryH/notes_template)
