@@ -23,5 +23,18 @@ able to publish this repository as a GitHub Pages website:
 
 ## Build website
 
-- main branch version of this template, see at:
-  [enryH/notes_template](https://github.com/enryH/notes_template)
+```bash
+pip install -r requirements.txt
+# check recipes for errors
+python check_recipes.py 
+```
+
+Then build the website using:
+
+```bash
+sphinx-build -n -W --keep-going -b html ./ ./_build/
+open _build/index.html
+```
+
+For more information on the usage of this template, see:
+  - [enryH/notes_template](https://github.com/enryH/notes_template)
