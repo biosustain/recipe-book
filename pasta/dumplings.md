@@ -26,7 +26,7 @@
 
 ### How to Fry Dumplings:
 
-Step 1. Use medium-high heat and add oil.
-Step 2. Place dumplings in the pan and fry until the bottoms turn golden.
-Step 3. Add 60g water and cover the pot for 4–6 minutes.
-Step 4. Lift the lid and keep the heat on until the water has dried.
+1. Use medium-high heat and add oil.
+2. Place dumplings in the pan and fry until the bottoms turn golden.
+3. Add 60g water and cover the pot for 4–6 minutes.
+4. Lift the lid and keep the heat on until the water has dried.
