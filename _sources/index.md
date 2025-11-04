@@ -15,8 +15,9 @@ and merging. Feel free to contribute your own recipes by creating a pull request
 :maxdepth: 1
 :hidden:
 
-mains/vegetarian-lasagna.md
-pasta/boscaiola.md
+mains/vegetarian-lasagna
+pasta/boscaiola
+pasta/dumplings
 ```
 
 ```{toctree}
