@@ -8,7 +8,7 @@ If you wish to improve the exercise itself, please direct your pull requests
 towards the template repository. I had to leave the fork network in order to be 
 able to publish this repository as a GitHub Pages website:
 
-- [enryh.github.io/recipe-book/](https://enryh.github.io/recipe-book/)
+- [biosustain.github.io/recipe-book/](https://biosustain.github.io/recipe-book/)
 
 
 ## Categories
