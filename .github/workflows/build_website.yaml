@@ -36,13 +36,13 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_build
           # # set it to a subfolder of the root to keep all PR previews:
-          # destination_dir: latest
+          destination_dir: latest
           # cname: website.com
       - if: ${{ github.event_name == 'pull_request' }}
         name: Save to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./_build
           # # create a version for an PR
           # # will be automatically deleted in case the build in on the root
