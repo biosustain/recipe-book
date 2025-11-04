@@ -42,7 +42,7 @@ jobs:
         name: Save to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./_build
           # # create a version for an PR
           # # will be automatically deleted in case the build in on the root
