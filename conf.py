@@ -36,7 +36,8 @@ exclude_patterns = [
     "**/.ipynb_checkpoints/*",
     "jupyter_execute",
     "conf.py",
-    "check_recipes.py"
+    "check_recipes.py",
+    "PULL_REQUEST_TEMPLATE.md"
 ]
 
 
