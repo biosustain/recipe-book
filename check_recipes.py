@@ -6,7 +6,7 @@ import sys
 ingredients_re = re.compile("^#+ +ingredients", re.IGNORECASE | re.MULTILINE)
 instructions_re = re.compile("^#+ +instructions", re.IGNORECASE | re.MULTILINE)
 
-paths = Path(__file__).parent.glob("*/*.md")
+paths = [p for p in Path(__file__).parent.glob("*/*.md") if not p.parent.name.startswith('.')]
 errors = 0
 for path in paths:
     if not ingredients_re.search(path.read_text()):
