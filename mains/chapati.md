@@ -1,3 +1,14 @@
+# Ingridients
+140g wholemeal flour
+140g plain flour
+plus extra for dusting
+1 tsp salt
+2 tbsp olive oil
+plus extra for greasing
+180ml hot water
+or as needed
+
+# Steps
 step 1
 In a large bowl, stir together the flours and salt. Use a wooden spoon to stir in the olive oil and enough water to make a soft dough that is elastic but not sticky.
 
