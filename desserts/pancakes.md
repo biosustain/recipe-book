@@ -7,7 +7,7 @@
 - 200 ml milk
 - sugar
 - salt
-- 200 g flour
+- 200 g flour.
 - 60 ml soda water
 - oil.
 
