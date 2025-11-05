@@ -1,6 +1,6 @@
 # Chifrijo caribeno
 
-## Ingredients: 
+## Ingredients:
 
 - 1/2 cup Costa Rican White Rice, hot
 - 1/2 cup Costa Rican red beans with broth, hot (use this black beans recipe except with kidney beans)
