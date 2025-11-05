@@ -27,7 +27,7 @@
 8. Add spinach (fresh or frozen)
 9. Add shredded grana padano to the sauce
 10. Salt and pepper to taste 
-11. Add your pasta and mix
+11. Add your pasta and cook in the sauce until pasta is al dente 
 12. Add pasta water (couple of teaspoons)
 13. EAT LIKE A KING
  
