@@ -17,10 +17,12 @@ and merging. Feel free to contribute your own recipes by creating a pull request
 
 mains/Chifrijo-caribeno
 mains/vegetarian-lasagna
+mains/arepas
 mains/quiche
 pasta/newpasta
 pasta/boscaiola
 pasta/dumplings
+pasta/carbonara
 pasta/dumplings_vegi
 ```
 
