@@ -4,10 +4,10 @@
 
 (For 1 person)
 
-- Minced beef 500g (>15% fat) or cabbage 500g for vegetarian filling
-- Carrot 500g
-- Mushrooms 6 pieces
-- Egg white: 2–3 teaspoons or from 2 eggs (only for meat dumplings)
+- 1 Tin of beans 
+- Chopped tomatoes
+- 5 pieced of curry flower
+- Sunflower
 - Spring onions 6 pieces
 - Ginger 15g
 - Fine salt 3 teaspoons
