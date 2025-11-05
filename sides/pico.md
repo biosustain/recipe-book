@@ -1,3 +1,5 @@
+# Pico de Gallo
+
 ## Ingredients
 - 6 plum tomatoes, chopped
 - 1 small onion, finely chopped
