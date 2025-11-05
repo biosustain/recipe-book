@@ -26,7 +26,7 @@ pasta/dumplings
 :maxdepth: 1
 :caption: Sides & Salads
 
-sides/*
+sides/pico-de-gallo
 salads/*
 ```
 
