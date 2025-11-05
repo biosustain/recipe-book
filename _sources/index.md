@@ -16,6 +16,8 @@ and merging. Feel free to contribute your own recipes by creating a pull request
 :hidden:
 
 mains/vegetarian-lasagna
+mains/quiche
+pasta/newpasta
 pasta/boscaiola
 pasta/dumplings
 pasta/dumplings_vegi
