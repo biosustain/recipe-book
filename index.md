@@ -48,11 +48,3 @@ soups/*
 
 desserts/*
 ```
-```{toctree}
-:hidden:
-:glob:
-:maxdepth: 1
-:caption: Tortilla
-
-tortilla/*
-```
