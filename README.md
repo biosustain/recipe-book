@@ -36,5 +36,9 @@ sphinx-build -n -W --keep-going -b html ./ ./_build/
 open _build/index.html
 ```
 
+In the CodeSpace, right-click on `_build/index.html` and select 'Show Preview'. This
+is done using Live Preview, see their
+[docs](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server#features).
+
 For more information on the usage of this template, see:
   - [enryH/notes_template](https://github.com/enryH/notes_template)
