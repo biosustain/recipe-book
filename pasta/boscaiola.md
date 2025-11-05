@@ -11,5 +11,6 @@
 
 
 ## Instructions
+Boil for 200 minutes and serve hot.
 
 
