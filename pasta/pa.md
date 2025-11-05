@@ -22,7 +22,6 @@
    and salt are evenly distributed and sticky—then the dumpling filling is ready.
 3. Put one spoon of dumpling filling in the middle of a dumpling wrapper and seal it. 
    You can use a little water to help.
-4. Boil the dumplings or fry them.
 
 ### How to Fry Dumplings:
 
