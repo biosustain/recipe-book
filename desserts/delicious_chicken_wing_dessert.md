@@ -6,12 +6,6 @@ A 'confusingly-good' sweet and savory chicken wing recipe that commits to flavor
 
 ---
 
-ARGHGHGHGH!
-*cough cough*
-**cough cough**
-
-I AM THE ORIGINAL! BUT I WANT TO CHANGE! I AM bRANCH
-
 ## Ingredients
 
 ### For the Wings
