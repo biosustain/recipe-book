@@ -14,7 +14,7 @@
 ## Steps 
 ### PASTA
 1. Boil pasta for 1 minute less than it says on the package 
-2. When done, strain pasta but save a cup of pasta water
+2. When done, strain pasta but save a cup of pasta water.
 
 ### SAUCE
 1. Chop onion
