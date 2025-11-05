@@ -15,6 +15,7 @@ and merging. Feel free to contribute your own recipes by creating a pull request
 :maxdepth: 1
 :hidden:
 
+mains/Chifrijo-caribeno
 mains/vegetarian-lasagna
 mains/quiche
 pasta/newpasta
