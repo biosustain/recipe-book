@@ -43,6 +43,15 @@ soups/*
 :hidden:
 :glob:
 :maxdepth: 1
+:caption: Tea
+
+teas/*
+```
+
+```{toctree}
+:hidden:
+:glob:
+:maxdepth: 1
 :caption: Desserts
 
 desserts/*
