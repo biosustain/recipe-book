@@ -27,7 +27,7 @@ pasta/dumplings_vegi
 :hidden:
 :glob:
 :maxdepth: 1
-:caption: Sides & Salads
+:caption: sides
 
 sides/*
 salads/*
