@@ -1,5 +1,5 @@
 # Pancakes
-.
+
 
 ## Ingredients
 
@@ -9,7 +9,7 @@
 - salt
 - 200 g flour.
 - 60 ml soda water
-- oil.
+- oil
 
 
 ## Instructions
