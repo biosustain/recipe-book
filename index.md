@@ -16,6 +16,7 @@ and merging. Feel free to contribute your own recipes by creating a pull request
 :hidden:
 
 mains/vegetarian-lasagna
+mains/tortilla
 pasta/boscaiola
 pasta/dumplings
 ```
@@ -46,4 +47,12 @@ soups/*
 :caption: Desserts
 
 desserts/*
+```
+```{toctree}
+:hidden:
+:glob:
+:maxdepth: 1
+:caption: Tortilla
+
+tortilla/*
 ```
