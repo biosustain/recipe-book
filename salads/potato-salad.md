@@ -7,8 +7,7 @@
 - 1/2 cup celery, finely diced  
 - 1/4 cup red onion, finely diced  
 - 1/3 cup dill pickles, chopped  
-- 3/4 cup mayonnaise  
-- 2 tablespoons Dijon mustard  
+- 3/4 cup mayonnaise
 - 1 tablespoon apple cider vinegar  
 - 1 teaspoon sugar  
 - Salt and pepper to taste  
