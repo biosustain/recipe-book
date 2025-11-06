@@ -1,7 +1,7 @@
 # Chocolate Pancakes
 Servings: 8–10 medium pancakes
 Time: 20 minutes
-🧈 Ingredients:
+## Ingredients:
 1 cup (125 g) all-purpose flour
 ¼ cup (25 g) unsweetened cocoa powder
 2 tbsp sugar (or more to taste)
