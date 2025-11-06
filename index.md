@@ -24,7 +24,7 @@ pasta/*
 :hidden:
 :glob:
 :maxdepth: 1
-:caption: Sides & Salads
+:caption: sides
 
 sides/*
 salads/*
