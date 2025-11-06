@@ -12,6 +12,7 @@ and merging. Feel free to contribute your own recipes by creating a pull request
 
 ```{toctree}
 :caption: Main Dishes
+:glob:
 :maxdepth: 1
 :hidden:
 
