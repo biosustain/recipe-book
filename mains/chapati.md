@@ -1,6 +1,7 @@
 # Chapati
 
-## Ingridients
+## Ingredients
+
 140g wholemeal flour
 140g plain flour
 plus extra for dusting
