@@ -1,13 +1,13 @@
-# Dumplings (vegetarian)
+# Bean_salad
 
 ## Ingredients
 
-(For 4 People)
+(For 1 person)
 
-- Cabbage 500g
-- Carrot 500g
-- Mushrooms 6 pieces
-- Egg white: 2–3 teaspoons or from 2 eggs (only for meat dumplings)
+- 1 Tin of beans 
+- Chopped tomatoes
+- 5 pieced of curry flower
+- Sunflower
 - Spring onions 6 pieces
 - Ginger 15g
 - Fine salt 3 teaspoons
@@ -22,7 +22,6 @@
    and salt are evenly distributed and sticky—then the dumpling filling is ready.
 3. Put one spoon of dumpling filling in the middle of a dumpling wrapper and seal it. 
    You can use a little water to help.
-4. Boil the dumplings or fry them.
 
 ### How to Fry Dumplings:
 

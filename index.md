@@ -12,26 +12,19 @@ and merging. Feel free to contribute your own recipes by creating a pull request
 
 ```{toctree}
 :caption: Main Dishes
+:glob:
 :maxdepth: 1
 :hidden:
 
-mains/Chifrijo-caribeno
-mains/vegetarian-lasagna
-mains/tortilla
-mains/arepas
-mains/quiche
-pasta/newpasta
-pasta/boscaiola
-pasta/dumplings
-pasta/carbonara
-pasta/dumplings_vegi
+mains/*
+pasta/*
 ```
 
 ```{toctree}
 :hidden:
 :glob:
 :maxdepth: 1
-:caption: Sides & Salads
+:caption: sides
 
 sides/*
 salads/*
