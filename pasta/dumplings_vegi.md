@@ -1,10 +1,9 @@
-# Dumplings
+# Dumplings (vegetarian)
 
 ## Ingredients
 
 (For 4 People)
 
-- Minced beef 500g (>15% fat) or cabbage 500g for vegetarian filling
 - Cabbage 500g
 - Carrot 500g
 - Mushrooms 6 pieces
