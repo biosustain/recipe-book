@@ -1,3 +1,5 @@
+# Raffaello Creme
+
 ## Ingredients
 
 2 Packungen Raffaello (à 230 g)
@@ -14,7 +16,7 @@
 
 frische Himbeeren zum Garnieren 
 
-## Instruction
+## Instructions
 
 1. Raffaello bis auf 100 g (ca. 10 Stück) mit einem Küchenmesser zerkleinern. Quark mit Zucker und Vanillezucker in eine große Rührschüssel geben, zerkleinerte Raffaello dazugeben und alles mit den Schneebesen des Handmixers cremig rühren.
 2. Sahne steif schlagen und mit einem Teigschaber unterheben.
