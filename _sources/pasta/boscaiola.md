@@ -13,6 +13,7 @@
 
 
 ## Instructions
+Boil for 200 minutes and serve hot.
 
 1. Bring a large pot of salted water to a boil and cook the rigatoni until just al dente according to package instructions. Reserve 1 cup (240 ml) of the pasta cooking water, then drain the pasta.
 
@@ -29,3 +30,4 @@
 7. Return the cooked pancetta to the pan. Add the drained pasta and toss to coat. If the sauce is too thick, add reserved pasta water a little at a time until you reach the desired consistency.
 
 8. Remove from heat, stir in chopped parsley, adjust seasoning, and serve immediately with extra grated Parmesan.
+
