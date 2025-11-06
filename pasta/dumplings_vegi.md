@@ -1,10 +1,10 @@
-# Dumplings
+# Dumplings (vegetarian)
 
 ## Ingredients
 
 (For 4 People)
 
-- Minced beef 500g (>15% fat) - or any other meat
+- Cabbage 500g
 - Carrot 500g
 - Mushrooms 6 pieces
 - Egg white: 2–3 teaspoons or from 2 eggs (only for meat dumplings)
