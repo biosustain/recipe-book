@@ -1,4 +1,4 @@
-Chocolate Pancakes
+# Chocolate Pancakes
 Servings: 8–10 medium pancakes
 Time: 20 minutes
 🧈 Ingredients:
