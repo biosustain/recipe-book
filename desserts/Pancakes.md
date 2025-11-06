@@ -12,7 +12,7 @@ Time: 20 minutes
 2 tbsp melted butter (or oil)
 ½ tsp vanilla extract
 ¼ cup (45 g) chocolate chips (optional but amazing)
-👩‍🍳 Instructions:
+## Instructions:
 Mix dry ingredients:
 In a large bowl, whisk together the flour, cocoa powder, sugar, baking powder, and salt.
 Mix wet ingredients:
