@@ -16,8 +16,8 @@ and merging. Feel free to contribute your own recipes by creating a pull request
 :maxdepth: 1
 :hidden:
 
-mains/*
-pasta/*
+mains
+pasta
 ```
 
 ```{toctree}
@@ -26,8 +26,8 @@ pasta/*
 :maxdepth: 1
 :caption: sides
 
-sides/*
-salads/*
+sides
+salads
 ```
 
 ```{toctree}
@@ -36,7 +36,7 @@ salads/*
 :maxdepth: 1
 :caption: Soups
 
-soups/*
+soups
 ```
 
 ```{toctree}
@@ -45,5 +45,5 @@ soups/*
 :maxdepth: 1
 :caption: Desserts
 
-desserts/*
+desserts
 ```
