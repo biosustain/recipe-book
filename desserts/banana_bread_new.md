@@ -9,7 +9,7 @@
 - 1 large egg, beaten
 - 1 teaspoon vanilla extract
 - 1 1/2 cups (205g) all-purpose flour
-## Directions
+## Instructions
 1. Preheat the oven to 350°F (175°C). Butter an 8x4-inch loaf pan.
 2. In a mixing bowl, mash the ripe bananas with a fork until completely smooth. Stir the melted butter into the mashed bananas.
 3. Mix in the baking soda and salt. Stir in the sugar, beaten egg, and vanilla extract. Mix in the flour.
