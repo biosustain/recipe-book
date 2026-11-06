@@ -10,6 +10,16 @@ and merging. Feel free to contribute your own recipes by creating a pull request
 
  - [Git Tutorial](https://github.com/biosustain/git-tutorial)
 
+
+```{toctree}
+:hidden:
+:glob:
+:maxdepth: 1
+:caption: Starters
+
+starters
+```
+
 ```{toctree}
 :caption: Main Dishes
 :glob:
@@ -24,7 +34,7 @@ pasta
 :hidden:
 :glob:
 :maxdepth: 1
-:caption: sides
+:caption: Sides
 
 sides
 salads
